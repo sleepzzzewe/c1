@@ -1,0 +1,10 @@
+﻿  main.c
+  monster.c
+C:\Users\s2005\OneDrive\桌面\c 專題\c project\project\project\monster.c(25,46): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  read.c
+  rule.c
+  save.c
+  正在產生程式碼...
+C:\Users\s2005\OneDrive\桌面\c 專題\c project\project\project\rule.c(30): warning C4715: 'rule': 不是所有控制路徑都傳回值
+C:\Users\s2005\OneDrive\桌面\c 專題\c project\project\project\monster.c(50): warning C4716: 'monster': 必須傳回值
+  project.vcxproj -> C:\Users\s2005\OneDrive\桌面\c 專題\c project\project\Debug\project.exe
